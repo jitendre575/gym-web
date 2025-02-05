@@ -106,8 +106,32 @@
     margin-left: 5px;
     cursor: pointer;
   }
-  
+  .bg-body-tertiary{
+    background-color: black !important;
+  }
   .search-box button i {
     font-size: 16px;
   }
-  
+  /* 🔹 Mobile Menu Default Hidden */
+@media (max-width: 991px) {
+  .header-nav {
+    display: none;
+  }
+
+  /* 🔹 Jab menu open ho toh show karein */
+  .header-nav.show {
+    display: block;
+    animation: slideDown 0.3s ease-in-out;
+  }
+
+  @keyframes slideDown {
+    from {
+      transform: translateY(-10px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+}

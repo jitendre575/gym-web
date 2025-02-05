@@ -68,7 +68,7 @@ function Gallery() {
                   <span>30 Years Of Experience in fitness</span>
                   <p>Train with the best experts in bodybuilding field.</p>
                 </div>
-                <div className="our-story-btn">
+                <div className="our-story-btn bt-top">
                   <a href="about-1.html" className="site-button site-btn-effect">
                     Learn More
                   </a>
