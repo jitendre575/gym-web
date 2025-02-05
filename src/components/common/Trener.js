@@ -25,6 +25,9 @@ const data = [
     icone3: <FaLinkedinIn />,
     icone4: <FaPinterest />,
   },
+
+
+  
   {
     img: teamimg2,
     title: "Brayden",
