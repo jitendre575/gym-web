@@ -163,6 +163,10 @@ This files [Table of contents] are outlined below
 .site-text-black {
   color: #000;
 }
+.nav-menu{
+  color: white !important;
+margin: 0px 50px;
+}
 
 .site-text-gray {
   color: #e7e7e7;
@@ -4393,7 +4397,8 @@ THEMEFOREST REQUIRED CLASSES
 
 @media (max-width: 420px) {
   .header-style-3 .navbar-toggler {
-    margin-left: 10px;
+    margin-left: 220px;
+    background-color: white;
   }
 }
 
@@ -4961,6 +4966,10 @@ THEMEFOREST REQUIRED CLASSES
   .section-head.left.wt-small-separator-outer h2 {
     font-size: 30px;
     letter-spacing: 1px;
+    text-align: center;
+  }
+  .bt-top{
+    text-align: center;
   }
 }
 
