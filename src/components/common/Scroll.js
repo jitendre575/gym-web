@@ -39,7 +39,7 @@ const Scroll = () => {
             width:"40px",
             position: "fixed",
             bottom: "15px",
-            right: "15Px",
+            right: "50Px",
             padding: "0px",
             fontSize: "24px",
             backgroundColor: "#1d1b18",
