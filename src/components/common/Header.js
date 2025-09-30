@@ -70,7 +70,7 @@ function Header() {
                 {/* Navigation Menu */}
                 <Navbar.Collapse id="basic-navbar-nav">
                   <Nav className="ml-auto ">
-                    <Nav.Link href="#" className="nav-menu">Home</Nav.Link>
+                    <Nav.Link href="#" className="nav-menu">Home2</Nav.Link>
                     <Nav.Link href="#" className="nav-menu">About</Nav.Link>
                     <Nav.Link href="#" className="nav-menu">Gallery</Nav.Link>
                     <Nav.Link href="#" className="nav-menu">Classes</Nav.Link>
